@@ -1,3 +1,8 @@
+hi pravin
+
+
+
+
 def hotel_dashboard(request):
     if request.session.has_key('hotel_mobile'):
         hotel_mobile = request.session['hotel_mobile']
